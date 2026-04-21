@@ -49,10 +49,6 @@ Expense-Tracker/
 │── README.md
 ⚙️ How to Run
 
-1️⃣ Clone the repository
-
-git clone https://github.com/yadavsanika20/Expense-Tracker.git
-
 2️⃣ Open in IDE
 
 Import project into Eclipse / IntelliJ
